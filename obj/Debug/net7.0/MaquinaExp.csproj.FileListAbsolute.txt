@@ -1,0 +1,14 @@
+C:\Users\2c28c\OneDrive\Escritorio\programObje\MaquinaExp\bin\Debug\net7.0\MaquinaExp.exe
+C:\Users\2c28c\OneDrive\Escritorio\programObje\MaquinaExp\bin\Debug\net7.0\MaquinaExp.deps.json
+C:\Users\2c28c\OneDrive\Escritorio\programObje\MaquinaExp\bin\Debug\net7.0\MaquinaExp.runtimeconfig.json
+C:\Users\2c28c\OneDrive\Escritorio\programObje\MaquinaExp\bin\Debug\net7.0\MaquinaExp.dll
+C:\Users\2c28c\OneDrive\Escritorio\programObje\MaquinaExp\bin\Debug\net7.0\MaquinaExp.pdb
+C:\Users\2c28c\OneDrive\Escritorio\programObje\MaquinaExp\obj\Debug\net7.0\MaquinaExp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2c28c\OneDrive\Escritorio\programObje\MaquinaExp\obj\Debug\net7.0\MaquinaExp.AssemblyInfoInputs.cache
+C:\Users\2c28c\OneDrive\Escritorio\programObje\MaquinaExp\obj\Debug\net7.0\MaquinaExp.AssemblyInfo.cs
+C:\Users\2c28c\OneDrive\Escritorio\programObje\MaquinaExp\obj\Debug\net7.0\MaquinaExp.csproj.CoreCompileInputs.cache
+C:\Users\2c28c\OneDrive\Escritorio\programObje\MaquinaExp\obj\Debug\net7.0\MaquinaExp.dll
+C:\Users\2c28c\OneDrive\Escritorio\programObje\MaquinaExp\obj\Debug\net7.0\refint\MaquinaExp.dll
+C:\Users\2c28c\OneDrive\Escritorio\programObje\MaquinaExp\obj\Debug\net7.0\MaquinaExp.pdb
+C:\Users\2c28c\OneDrive\Escritorio\programObje\MaquinaExp\obj\Debug\net7.0\MaquinaExp.genruntimeconfig.cache
+C:\Users\2c28c\OneDrive\Escritorio\programObje\MaquinaExp\obj\Debug\net7.0\ref\MaquinaExp.dll
