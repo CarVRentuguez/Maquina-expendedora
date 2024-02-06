@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yZetExrhDhZMwOn+mEDWomCrGUUWMKeiNzAqCG1VxQISxxEihNgwLU3iXw8jMSEK5o53m600COSxqHCm0TDIlw==",
+  "dgSpecHash": "lXRCB3mHX2+B+0BAXCTzKWOHsvHf2Y0aaloy4fCVw+9Bnh9BRjLLsLOM2UIaUJUuaTsCkU5yBzPx/ieuj3YFqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\2c28c\\OneDrive\\Escritorio\\programObje\\MaquinaExp\\MaquinaExp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\2c28c\\OneDrive\\Documentos\\Escritorio\\programObje\\MaquinaExp\\MaquinaExp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2c28c\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\2c28c\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\2c28c\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\2c28c\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

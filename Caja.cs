@@ -1,55 +1,43 @@
 using System.ComponentModel;
+using System.Data;
 using System.Diagnostics.Contracts;
+using System.Security.Cryptography.X509Certificates;
 
 namespace MaquinaExp{
 
-
-//atributos
+//clase caja
     public class Caja{
 
-
+//atributos
  double cobrar;
+ int contador;
  //fin
 
-    public Caja(double credito){
+//constructor
+    public Caja(double credito, int contadorInicial ){
     this.cobrar=credito;
-
-    
-
+    this.contador=contadorInicial=5;
     }
 
-    public int cobrarproducto(double pago, double precioProducto,int contador){
+    //metodo
+
+    public void cobrarproducto(double pago, double precioProducto){
     double pagotemp=pago;
     double preciotemp=precioProducto;
     double cambio;
-    int contadortemp=contador;
+
 
     if (pagotemp<preciotemp){
          Console.WriteLine("Crédito insuficiente");
-
-        
     
     }
     else{
         cambio=pagotemp-preciotemp;
         Console.WriteLine("su cambion es: "+ cambio);
-        contador=contador-1;
-        return contador;
-
-
-    
-
-    }
-    return 0;
-
-    
-    }
-
-
-
-
 
     }
 
+    }
 
 }
+ }

@@ -5,12 +5,14 @@ namespace MaquinaExp{
         int id{get;set;}
         string nombre{get;set;}
         double precio{get;set;}
+       
 
-        public Producto( int id, string nombre, double precio  ){
+        public Producto( int id, string nombre, double precio){
 
             this.id= id; 
             this.nombre=nombre;
             this.precio=precio;
+           
             
 
         }
@@ -30,10 +32,13 @@ namespace MaquinaExp{
 
         }
 
-
+       
         
+       
+    }
+
 
 
     }
-}
+
 
